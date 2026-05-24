@@ -1,25 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=230&section=header&text=Mohammad%20Farhan%20Qureshi&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20AI%20Security%20Tools%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=16" />
-
-<h3 align="center">🛡️ Cybersecurity Enthusiast · AI Security Tools · Full-Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=240&section=header&text=MOHAMMAD%20FARHAN%20QURESHI&fontSize=36&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20Security%20Tools%20%7C%20DevSecOps%20%7C%20Secure%20Coding&descAlignY=56&descSize=15" />
 
 <p align="center">
-  <a href="https://github.com/Farhan-qureshi-hack">
-    <img src="https://img.shields.io/badge/GitHub-Farhan--qureshi--hack-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-farhan-qureshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Farhan%20Qureshi-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Initializing+Farhan's+Cyber+Terminal...;Loading+AI-powered+security+toolkit...;Scanning+repositories+for+secrets...;Building.+Breaking.+Securing.+Repeating." />
 </p>
+
+<div align="center">
+
+```bash
+┌──(farhan㉿github)-[~/profile]
+└─$ sudo ./init-profile.sh
+```
+
+```txt
+[ OK ] Identity loaded
+[ OK ] Cybersecurity modules initialized
+[ OK ] AI security toolkit online
+[ OK ] TryHackMe profile linked
+[ OK ] GitHub recon ready
+```
+
+</div>
+
+<h3 align="center">🛡️ Cybersecurity Enthusiast | AI Security Tool Builder | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+security-focused+developer+tools;AI-powered+secret+scanning+and+automation;Learning+cybersecurity%2C+DevSecOps%2C+and+secure+coding" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-
   <a href="https://github.com/Farhan-qureshi-hack">
     <img src="https://img.shields.io/badge/GitHub-Farhan--qureshi--hack-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -31,57 +35,89 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=root%40farhan%3A~%23+building+AI-powered+security+tools;scanning+repos+for+secrets+and+security+risks;learning+DevSecOps%2C+secure+coding%2C+and+cybersecurity;turning+code+into+cybersecurity+products" />
-</p>
-
 ---
 
 ## 💀 Terminal Access Granted
 
 ```bash
-┌──(farhan㉿github)-[~/profile]
-└─$ whoami
+┌──(farhan㉿github)-[~/identity]
+└─$ cat farhan.profile
 ```
 
 ```txt
-Mohammad Farhan Qureshi
+Alias       : Farhan
+Full Name   : Mohammad Farhan Qureshi
+Handle      : Farhan-qureshi-hack
+Role        : Cybersecurity Learner | AI Security Tool Builder | Full-Stack Developer
+Speciality  : Secret Scanning | Secure Coding | DevSecOps | AI Security
+Lab         : TryHackMe | GitHub Security | Real-world Projects
+Motto       : Build. Break. Secure. Repeat.
 ```
 
 ```bash
-┌──(farhan㉿github)-[~/about]
-└─$ cat about_me.txt
+┌──(farhan㉿github)-[~/identity]
+└─$ cat mission.log
 ```
 
 ```txt
-Name        : Mohammad Farhan Qureshi
-Username    : Farhan-qureshi-hack
-Role        : Developer | Cybersecurity Learner | AI Security Tool Builder
-Focus       : Secret Scanning, DevSecOps, Secure Coding, AI Security
-Mindset     : Build. Break. Secure. Repeat.
-Status      : Learning, building, and improving every day.
+[+] Build tools that help developers write safer code
+[+] Detect exposed secrets before attackers find them
+[+] Combine AI with practical cybersecurity workflows
+[+] Learn offensive thinking and defensive engineering
+[+] Turn every project into a stronger portfolio signal
 ```
 
-```bash
-┌──(farhan㉿github)-[~/about]
-└─$ cat mission.txt
-```
+<div align="center">
 
-```txt
-[+] Building security-focused developer tools
-[+] Exploring AI-powered cybersecurity automation
-[+] Learning secure coding and DevSecOps workflows
-[+] Creating real-world projects that detect, scan, and protect
-[+] Improving my GitHub into a strong cybersecurity portfolio
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🛡️ Defend</h3>
+<p>Protect code, systems, and workflows.</p>
+</td>
+<td align="center" width="25%">
+<h3>🔍 Detect</h3>
+<p>Find risks, leaks, and weak points.</p>
+</td>
+<td align="center" width="25%">
+<h3>🤖 Automate</h3>
+<p>Use AI and scripts to speed up security.</p>
+</td>
+<td align="center" width="25%">
+<h3>🚀 Build</h3>
+<p>Create real tools, not just notes.</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🧰 Tech & Security Stack
 
 ```bash
-┌──(farhan㉿github)-[~/skills]
-└─$ ls -la ./arsenal
+┌──(farhan㉿github)-[~/arsenal]
+└─$ tree ./skills
+```
+
+```txt
+./skills
+├── languages
+│   ├── JavaScript
+│   ├── TypeScript
+│   ├── Node.js
+│   └── React
+├── security
+│   ├── Secret Scanning
+│   ├── Secure Coding
+│   ├── DevSecOps
+│   └── AI Security
+└── tools
+    ├── GitHub
+    ├── Git
+    ├── VS Code
+    └── Linux
 ```
 
 ### 💻 Languages & Development
@@ -112,47 +148,56 @@ Status      : Learning, building, and improving every day.
 </p>
 
 ```bash
-┌──(farhan㉿github)-[~/skills]
-└─$ cat current_learning.log
+┌──(farhan㉿github)-[~/arsenal]
+└─$ cat learning_modules.log
 ```
 
 ```txt
-[INFO] Learning cybersecurity fundamentals
-[INFO] Practicing secure development workflows
-[INFO] Exploring GitHub security and secret scanning
-[INFO] Building AI-powered security automation tools
-[INFO] Improving project documentation and portfolio quality
+[ACTIVE] Secure coding practices
+[ACTIVE] GitHub security and repository scanning
+[ACTIVE] DevSecOps fundamentals
+[ACTIVE] AI-powered security automation
+[ACTIVE] TryHackMe hands-on cybersecurity labs
 ```
 
 ---
 
-## 🔥 Featured Exploit... I Mean Project
+## 🔥 Featured Operation: KeyKite
 
 ```bash
-┌──(farhan㉿github)-[~/projects]
-└─$ cat featured_project.md
+┌──(farhan㉿github)-[~/operations]
+└─$ ./launch --project KeyKite
+```
+
+```txt
+[+] Operation Name : KeyKite
+[+] Category       : AI Security Tool
+[+] Objective      : Detect exposed secrets inside GitHub repositories
+[+] Status         : Active Development
+[+] Threat Model   : API keys, tokens, credentials, sensitive leaks
 ```
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="85%">
+<td align="center" width="90%">
 
 <h2>🔑 KeyKite</h2>
 
 <p>
-An AI-powered GitHub repository secrets scanner built to help developers detect exposed API keys, tokens, credentials, and sensitive information inside repositories.
+AI-powered GitHub repository secrets scanner built to help developers detect exposed API keys, tokens, credentials, and sensitive information before they become security incidents.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Type-AI%20Security%20Tool-38BDF8?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/Focus-Secret%20Scanning-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operation-KeyKite-38BDF8?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Threat-Secrets%20Exposure-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mode-Detection-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-7C3AED?style=for-the-badge" />
 </p>
 
 <a href="https://github.com/Farhan-qureshi-hack/KeyKite">
-<img src="https://img.shields.io/badge/ACCESS%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20CASE%20FILE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -270,7 +315,14 @@ An AI-powered GitHub repository secrets scanner built to help developers detect 
 
 ```bash
 ┌──(farhan㉿github)-[~/cyber-labs]
-└─$ cat tryhackme_profile.txt
+└─$ ./sync_tryhackme.sh
+```
+
+```txt
+[+] Platform connected
+[+] Username verified
+[+] Lab mode enabled
+[+] Ethical hacking path active
 ```
 
 <div align="center">
@@ -289,7 +341,8 @@ An AI-powered GitHub repository secrets scanner built to help developers detect 
 [+] Platform    : TryHackMe
 [+] Username    : farhan.qureshi.hack
 [+] Focus       : Hands-on cybersecurity labs
-[+] Mode        : Practice. Learn. Hack ethically.
+[+] Practice    : Web security, Linux, networking, ethical hacking
+[+] Mode        : Learn legally. Hack ethically. Improve daily.
 ```
 
 ---
@@ -298,7 +351,14 @@ An AI-powered GitHub repository secrets scanner built to help developers detect 
 
 ```bash
 ┌──(farhan㉿github)-[~/connect]
-└─$ sudo ./connect.sh
+└─$ sudo ./connect.sh --all
+```
+
+```txt
+[+] LinkedIn route established
+[+] GitHub channel active
+[+] TryHackMe lab connected
+[+] Visitor tracking online
 ```
 
 <div align="center">
@@ -324,16 +384,16 @@ An AI-powered GitHub repository secrets scanner built to help developers detect 
 ---
 
 ```bash
-┌──(farhan㉿github)-[~/exit]
-└─$ echo "Secure the code. Automate the boring. Learn the system."
+┌──(farhan㉿github)-[~/logout]
+└─$ echo "Session terminated. Stay curious. Stay secure."
 ```
 
 ```txt
-Secure the code. Automate the boring. Learn the system.
+Session terminated. Stay curious. Stay secure.
 ```
 
 <p align="center">
-  <i>Secure the code. Automate the boring. Learn the system.</i>
+  <i>Build tools. Break assumptions. Secure systems.</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer" />
