@@ -19,8 +19,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 ```bash
 whoami
 ```
