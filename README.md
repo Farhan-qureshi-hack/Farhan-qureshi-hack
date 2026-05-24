@@ -194,8 +194,6 @@ farhan@github:~$ ls ./projects
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Farhan-qureshi-hack&style=for-the-badge&color=0e75b6" />
-
 </div>
 
 
