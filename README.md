@@ -157,11 +157,12 @@ farhan@github:~$ ls ./projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farhan-qureshi-hack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan-qureshi-hack&theme=github_dark" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-qureshi-hack&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan-qureshi-hack&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farhan-qureshi-hack&theme=github_dark" />
 
 </div>
 
